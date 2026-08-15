@@ -5,6 +5,3 @@
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-FFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp; 
  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
- ![SQL](https://img.shields.io/badge/-SQL-FFFFF?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
-
- 

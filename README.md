@@ -7,5 +7,5 @@
  ![SQL](https://img.shields.io/badge/-SQL-FFFFF?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
  
 
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ !link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /!
           

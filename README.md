@@ -4,6 +4,7 @@
 
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-FFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp; 
+ ![Python](https://img.shields.io/badge/SQL-FFFFF?style=for-the-badge&logo=sql&logoColor=darkgreen)&nbsp; 
  ![SQL](https://img.shields.io/badge/-SQL-FFFFF?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 
  

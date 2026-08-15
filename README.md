@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2dba4e&height=110&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2dba4e&height=110&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2EA043&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Felipe+Capella;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)
 
@@ -6,3 +6,6 @@
  ![Python](https://img.shields.io/badge/Python-FFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp; 
  ![SQL](https://img.shields.io/badge/-SQL-FFFFF?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
  
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
